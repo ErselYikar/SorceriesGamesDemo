@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Customer
-  - Tutor
+  - Ground
+  - JumpSpot
   layers:
   - Default
   - TransparentFX
@@ -16,10 +16,10 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - Customer
-  - Collectable
-  - Player
-  - Tutor
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
